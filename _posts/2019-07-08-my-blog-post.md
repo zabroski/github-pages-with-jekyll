@@ -1,2 +1,4 @@
-title: "myblock"
-date: 2019-07-08
+---
+title: "my-blog-post title"
+date: YYYY-MM-DD
+---
